@@ -9,5 +9,5 @@ I'm Sanda and I'm in my 3rd year, exploring the embedded systems and computer ar
 ## Funfact
 In my free time, I love to do activities involving anything "outdoorsy" including hiking :mountain: , camping :tent: , and spikeball. <br>
 
-Sincerly,<br>
+Sincerely,<br>
 <em>Sanda</em>
