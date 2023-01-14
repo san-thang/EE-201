@@ -4,4 +4,4 @@
 
 ## Intro
 Hey! :smile: <br>
-I'm Sanda. I'm in my 3rd year 
+I'm Sanda and I'm in my 3rd, exploring the embedded systems and computer architecture pathway within ECE. Even though this class is a requirement core class, I am looking forward in learning how to program arduino, soldering PCB, and designing a 3 D printed object! <br>
